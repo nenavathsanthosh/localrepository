@@ -1,1 +1,1 @@
-all about programming
+all about python
